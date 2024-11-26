@@ -59,4 +59,4 @@ except:
 # 24: Classificador de Números
 # 25: Conversão de Tipo com Validação
 
-fe
+print("fere")
